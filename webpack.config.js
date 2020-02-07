@@ -10,7 +10,7 @@ module.exports = {
         globalObject: 'this',
         libraryTarget: 'umd'
     },
-    mode: 'none',
+    mode: 'production',
     stats: 'none',
     resolve: {
         extensions: ['.js', '.json', '.ts']
