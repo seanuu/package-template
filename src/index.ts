@@ -1,4 +1,4 @@
-const module = {};
+const moduleA = {};
 
-export { module };
-export default module;
+export { moduleA };
+export default moduleA;

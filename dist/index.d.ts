@@ -1,3 +1,3 @@
-declare const module: {};
-export { module };
-export default module;
+declare const moduleA: {};
+export { moduleA };
+export default moduleA;
