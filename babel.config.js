@@ -5,7 +5,7 @@ module.exports = {
             {
                 useBuiltIns: 'usage',
                 corejs: 3,
-                targets: 'last 2 Chrome versions, not ie <= 11, node 8'
+                targets: '> 1%, last 2 versions, not ie <= 11, node 8'
             }
         ]
     ]
